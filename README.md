@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+<a href="https://www.linkedin.com/in/khanh-nguyen-58445a261/" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhgn)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhgn&layout=donut)](https://github.com/khanhgn/github-readme-stats)
 <!--

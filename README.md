@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a first year Bachelor of Computer Science (Advanced) student at the University of Adelaide
+### Hi there 👋 I'm Khanh
+I'm a first-year Bachelor of Computer Science (Advanced) student at the University of Adelaide, with a keen interest in Data Science and Machine Learning 🌐. I'm eagerly embracing opportunities to enhance not only my technical skills but also leadership abilities. This summer, I'm keen to delve more into the professional field to learn, grow, and collaborate.
+
 <a href="https://www.linkedin.com/in/khanh-nguyen-58445a261/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

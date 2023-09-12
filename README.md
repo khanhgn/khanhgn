@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a first year Bachelor of Computer Science (Advanced) student at the University of Adelaide
 <a href="https://www.linkedin.com/in/khanh-nguyen-58445a261/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

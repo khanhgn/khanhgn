@@ -66,7 +66,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 <hr/>
 
 <h3 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Shoot+me+a+message+on+Linkedin!;Let's+collab!" alt="Typing SVG" /></a> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Shoot+me+a+message+on+Linkedin!;Let's+collab!" alt="Typing SVG" /></a> 
 </h3>
 
 <br/>

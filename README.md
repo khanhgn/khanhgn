@@ -71,11 +71,13 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 
 <br/>
 
-
-
+<hr/>
+<h2 align="center">Here are my listening habbits</h3>
+<h3 align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=a16sxvxovnkxicp34que0xqsa">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=a16sxvxovnkxicp34que0xqsa" alt="Data Card for Spotify">
 </a>
+</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhgn&layout=donut)](https://github.com/khanhgn/github-readme-stats)
 <!--

@@ -36,7 +36,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,firebase,mongodb,nodejs,github,threejs,framermotion" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,firebase,mongodb,nodejs,github,threejs,matlab" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,r,python,html,css,vscode,figma,git" />
 </div>
 

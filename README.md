@@ -1,6 +1,6 @@
 <img align="right" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fkhanhgn%2Fkhanhgn.json%3Fcolor%3Dblue"/>
 
-<h1 align="center">
+<h1 align="center" style="color: black;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khanh+Nguyen!;" />
 </h1>
 I'm a first-year Bachelor of Computer Science (Advanced) student at the University of Adelaide, with a keen interest in Data Science and Machine Learning 🌐. I'm eagerly embracing opportunities to enhance not only my technical skills but also leadership abilities. This summer, I'm keen to delve more into the professional field to learn, grow, and collaborate.

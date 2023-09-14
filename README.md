@@ -7,7 +7,7 @@
 I'm a first-year Bachelor of Computer Science (Advanced) student at the University of Adelaide, with a keen interest in Data Science and Machine Learning 🌐. I'm eagerly embracing opportunities to enhance not only my technical skills but also leadership abilities. This summer, I'm keen to delve more into the professional field to learn, grow, and collaborate.
 
 <br/>
-
+<br/>
 <div align="center">
  
  🔭 I’m currently working on **a chat app**

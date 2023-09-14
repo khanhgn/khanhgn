@@ -20,7 +20,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
  </div>
  
 <div align="center"> 
-  <a href="mailto:khanhgn@gmail.com">
+  <a href="mailto:khanhgn.au@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/khanh-nguyen-58445a261/" target="_blank">
@@ -66,7 +66,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Shoot+me+a+message+on+Linkedin!;Let's+collab!" alt="Typing SVG" /></a> 
 </h3>
 
 <br/>

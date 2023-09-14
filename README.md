@@ -46,7 +46,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   ![snake gif](https://github.com/khanhgn/khanhgn/blob/output/github-contribution-grid-snake.svg)  
+   <img alt="contribution graph" src="https://github.com/khanhgn/khanhgn/blob/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
 

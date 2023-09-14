@@ -5,7 +5,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
+[![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhgn)](https://github.com/khanhgn/github-readme-stats)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=a16sxvxovnkxicp34que0xqsa">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=a16sxvxovnkxicp34que0xqsa" alt="Data Card for Spotify">

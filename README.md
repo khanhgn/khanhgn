@@ -1,6 +1,6 @@
+<img align="right" src="  https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fkhanhgn%2Fkhanhgn.json%3Fcolor%3Dpink"/>
 ### Hi there 👋 I'm Khanh
 I'm a first-year Bachelor of Computer Science (Advanced) student at the University of Adelaide, with a keen interest in Data Science and Machine Learning 🌐. I'm eagerly embracing opportunities to enhance not only my technical skills but also leadership abilities. This summer, I'm keen to delve more into the professional field to learn, grow, and collaborate.
-[![HitCount](https://hits.dwyl.com/khanhgn/khanhgn.svg?style=flat-square)](http://hits.dwyl.com/khanhgn/khanhgn)
 
 <a href="https://www.linkedin.com/in/khanh-nguyen-58445a261/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

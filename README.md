@@ -37,7 +37,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,firebase,mongodb,nodejs,github" /><br>
-    <img src="https://skillicons.dev/icons?i=c,c++,r,python,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,python,html,css,vscode,figma,git" />
 </div>
 
 <br/>

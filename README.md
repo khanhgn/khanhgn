@@ -64,15 +64,6 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 
 <br/><br/>
 
-<hr/>
-<h2 align="center">What I am currently listening to :D</h3>
-<h3 align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=a16sxvxovnkxicp34que0xqsa">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=a16sxvxovnkxicp34que0xqsa" alt="Data Card for Spotify">
-</a>
-</h3>
-
-<br/>
 
 <hr/>
 

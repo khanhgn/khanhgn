@@ -55,7 +55,7 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 <h2 align="center">🗿 Stats 🗿</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhgn&layout=compact" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhgn&layout=donut" alt="streak stats"/>
    <br>
      <img width=430 src="https://streak-stats.demolab.com/?user=khanhgn" alt="readme stats" />
 

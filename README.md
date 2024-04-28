@@ -8,16 +8,6 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 
 <br/>
 <br/>
-<div align="center">
- 
- 🔭 I’m currently working on **a commerce app**
- 
- 🌱 I’m currently learning **Pytorch and OpenCV**
-
- 💬 Ask me about **what I do... or anything [here](https://github.com/khanhgn/khanhg/issues)**
-
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:khanhgn.au@gmail.com">
@@ -33,33 +23,6 @@ I'm a first-year Bachelor of Computer Science (Advanced) student at the Universi
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,firebase,mongodb,nodejs,github,threejs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,r,python,html,css,vscode,figma,git" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>My Github Contributions</h2>
-  <br>
-   <img alt="contribution graph" src="https://github.com/khanhgn/khanhgn/blob/output/github-contribution-grid-snake.svg"/>
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">🗿 Stats 🗿</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhgn&layout=pie" alt="streak stats"/>
-   <br>
-     <img width=430 src="https://streak-stats.demolab.com/?user=khanhgn" alt="readme stats" />
-
-</div>
 
 
 <br/><br/>

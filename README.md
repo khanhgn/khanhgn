@@ -1,10 +1,31 @@
-<img align="right" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fkhanhgn%2Fkhanhgn.json%3Fcolor%3Dblue"/>
+<style>
+  .gradient-text {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    background-image: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6f61, #ffab40);
+    background-size: 300% 300%;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: gradientAnimation 4s ease infinite;
+  }
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=300&color=000000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Khanh" alt="Typing SVG" />
-  </a>
-</h1>
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
+
+<h1 class="gradient-text">Hey there 👋, I'm Khanh</h1>
+
 
 <h3 align="center">Software dev, researcher, and all-around tech enthusiast from Australia</h3>
 

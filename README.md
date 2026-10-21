@@ -1,12 +1,28 @@
-<h1>Hi 👋, I'm Khanh</h1>
+# Khanh Nguyen
 
-<p>I'm a Computer Science student at the University of Adelaide.</p>
+`surfing gradients // drunk on apophenia`
 
-<p>Find me here:</p>
+**Product @ [insightfactory.ai](https://insightfactory.ai)**: building agentic AI and running the product team.
+**Research @ [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/)**: vision-language models and visual reasoning, [BBVisual Lab](https://minhhoai.net/lab.html).
 
-<ul>
-  <li><strong>Website:</strong> <a href="https://khanhgn.vercel.app" target="_blank">khanhgn.vercel.app</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/khanh-nguyen-58445a261" target="_blank">Khanh Nguyen</a></li>
-  <li><strong>Twitter:</strong> <a href="https://twitter.com/khanhgng" target="_blank">@khanhgng</a></li>
-  <li><strong>YouTube:</strong> <a href="https://youtube.com/@khanhgn" target="_blank">@khanhgn</a></li>
-</ul>
+```yaml
+now:
+  product:  agentic AI platform @ insightfactory.ai
+  research: vision-language models, fine-grained visual reasoning @ AIML
+  based:    Adelaide, Australia
+```
+
+### Publications
+
+- **PairTally: Can Current AI Models Count What We Mean, Not What They See?** DICTA 2025
+  [paper](https://arxiv.org/abs/2509.13939) · [code](https://github.com/bbvisual/PairTally_Benchmark)
+  A benchmark of 681 images that tests whether models can count by fine-grained intent. Used as an evaluation benchmark in CountGD++ (CVPR 2026).
+
+### Elsewhere
+
+[website](https://khanhgn.vercel.app) · [linkedin](https://www.linkedin.com/in/khanh-nguyen-58445a261) · [x](https://x.com/khanhgng) · [youtube](https://youtube.com/@khanhgn)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khanhgn/khanhgn/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/khanhgn/khanhgn/output/github-contribution-grid-snake.svg">
+</picture>

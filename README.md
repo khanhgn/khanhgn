@@ -14,7 +14,7 @@ now:
 
 ### Elsewhere
 
-[website](https://khanhgn.vercel.app) · [linkedin](https://www.linkedin.com/in/khanh-nguyen-58445a261) · [x](https://x.com/khanhgng) · [youtube](https://youtube.com/@khanhgn)
+[website](https://khanhcore.vercel.app) · [linkedin](https://www.linkedin.com/in/khanh-nguyen-58445a261) · [x](https://x.com/khanhcore) · [youtube](https://youtube.com/@khanhcore) · [substack](https://khanhcore.substack.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khanhgn/khanhgn/output/github-contribution-grid-snake-dark.svg">

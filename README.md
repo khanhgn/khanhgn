@@ -2,7 +2,7 @@
 
 `surfing gradients // drunk on apophenia`
 
-**Product @ [insightfactory.ai](https://insightfactory.ai)**: building agentic AI and running the product team.
+**Product @ [insightfactory.ai](https://insightfactory.ai)**: building agentic AI.
 **Research @ [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/)**: vision-language models and visual reasoning, [BBVisual Lab](https://minhhoai.net/lab.html).
 
 ```yaml
@@ -11,12 +11,6 @@ now:
   research: vision-language models, fine-grained visual reasoning @ AIML
   based:    Adelaide, Australia
 ```
-
-### Publications
-
-- **PairTally: Can Current AI Models Count What We Mean, Not What They See?** DICTA 2025
-  [paper](https://arxiv.org/abs/2509.13939) · [code](https://github.com/bbvisual/PairTally_Benchmark)
-  A benchmark of 681 images that tests whether models can count by fine-grained intent. Used as an evaluation benchmark in CountGD++ (CVPR 2026).
 
 ### Elsewhere
 

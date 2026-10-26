@@ -14,4 +14,4 @@ now:
 
 ### Elsewhere
 
-[website](https://khanhcore.vercel.app) · [linkedin](https://www.linkedin.com/in/khanh-nguyen-58445a261) · [x](https://x.com/khanhcore) · [youtube](https://youtube.com/@khanhcore) · [substack](https://khanhcore.substack.com)
+[website](https://khanhcore.me) · [linkedin](https://www.linkedin.com/in/khanh-nguyen-58445a261) · [x](https://x.com/khanhcore) · [youtube](https://youtube.com/@khanhcore) · [substack](https://khanhcore.substack.com)
